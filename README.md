@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zoey</h1>
+<h1 align="center">Hi 👋, I'm Anh</h1>
 <h3 align="center">A software engineer based in Sydney NSW</h3>
 
 <h3 align="left">Connect with me:</h3>
